@@ -1,0 +1,6 @@
+﻿  实验五.cpp
+C:\Users\86184\source\repos\实验一\实验一\实验五.cpp(90): warning C4715: “createEmptyQueue”: 不是所有的控件路径都返回值
+C:\Users\86184\source\repos\实验一\实验一\实验五.cpp(47): warning C4715: “createEmptyBinTree”: 不是所有的控件路径都返回值
+C:\Users\86184\source\repos\实验一\实验一\实验五.cpp(143): warning C4715: “frontQueue”: 不是所有的控件路径都返回值
+C:\Users\86184\source\repos\实验一\实验一\实验五.cpp(171): warning C4715: “Check”: 不是所有的控件路径都返回值
+  实验一.vcxproj -> C:\Users\86184\source\repos\实验一\x64\Debug\实验一.exe
